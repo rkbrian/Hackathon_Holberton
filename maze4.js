@@ -5,8 +5,8 @@ var w = window,
     g = d.getElementsByTagName('body')[0];
 
 // Dropdown lists for maze dimensions
-var lvlwidth = { "Easy": 420, "Medium": 540, "Hard": 660, "Expert": 780 };
-var lvlheight = { "Easy": 300, "Medium": 360, "Hard": 450, "Expert": 570 };
+var lvlwidth = { "Select": 0, "Easy": 420, "Medium": 540, "Hard": 660, "Expert": 780 };
+var lvlheight = { "Select": 0, "Easy": 300, "Medium": 360, "Hard": 450, "Expert": 570 };
 var select = document.createElement("select");
 select.name = "level";
 select.id = "level";
@@ -356,7 +356,7 @@ function moveSouth() {
 }
 //Changes the alert when you win the game
 function gameComplete() {
-    alert('Congratulations, 🤠 you found the way to the treasure 💎!');
+    alert('Congratulations, 🤠 you found the treasure 💎!');
 }
 
 
