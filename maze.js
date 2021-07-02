@@ -19,10 +19,10 @@ for (const val of Object.keys(lvlwidth)) {
 }
 
 var label = document.createElement("label");
-label.innerHTML = "Choose your level: ";
+// label.innerHTML = "Choose your level: ";
 label.htmlFor = "level";
 
-var eleme = document.getElementById("levelcontainer").appendChild(label).appendChild(select);
+var eleme = document.getElementById("levelcontainer").appendChild(label);
 var strUser = eleme.value;
 
 var x = w.innerWidth || e.clientWidth || g.clientWidth,
