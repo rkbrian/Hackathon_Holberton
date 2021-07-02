@@ -22,13 +22,13 @@ var label = document.createElement("label");
 label.innerHTML = "Choose your level: ";
 label.htmlFor = "level";
 
-var eleme = document.getElementById("levelcontainer").appendChild(label).appendChild(select);
+var eleme = document.getElementById("levelcontainer2").appendChild(label).appendChild(select);
 var strUser = eleme.value;
 
 var x = w.innerWidth || e.clientWidth || g.clientWidth,
     y = w.innerHeight || e.clientHeight || g.clientHeight;
-var width = 420,
-    height = 300;
+var width = 540,
+    height = 360;
 
 // refresh page after change in dropdown list
 // if (strUser == "Easy" || strUser == "Medium" || strUser == "Hard" || strUser == "Expert") {
@@ -397,7 +397,7 @@ function animate() {
 animate();
 
 document.getElementById('doomsday').innerHTML =
-  00 + ":" + 40;
+  00 + ":" + 50;
 startTimer();
 
 
