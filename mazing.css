@@ -1,7 +1,16 @@
-body {
-    background-image: url(https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/a/b9/ab92ff3a-c783-11ea-aa59-bb2a805d3b71/5f10840424b3b.image.jpg?resize=1200%2C727);
-}
-
 canvas {
+  margin-top: 220px;
+  margin-left: 2%;
   position: absolute;
+}
+label {
+  margin-left: 40px;
+  margin-top: 200px;
+  width: auto;
+  color: #cfb53b;
+}
+.normaltext {
+  margin-top: 0px;
+  margin-left: 40px;
+  color:#cfb53b;
 }
