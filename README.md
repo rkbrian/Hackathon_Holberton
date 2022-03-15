@@ -2,7 +2,7 @@
 This was assigned as a 2-day team project: design anything (software, web application, game, etc.) for the theme "Lost and Found".
 Our final product is a themed web game called "**The Lost Temple**", which is to solve a maze in limited time.
 
-Contributors: **Brian Kong, [Simon Sun](https://github.com/SSun97)**
+Contributors: **[Brian Kong](https://github.com/rkbrian)** (me), **[Simon Sun](https://github.com/SSun97)**
 
 ## Theme story
 According to Maya wheel calendar, today is the end of the world!\
@@ -35,6 +35,6 @@ Server up: our server is NOT guaranteed available all the time, [click here](htt
 <div align="center"><img src="https://github.com/rkbrian/Hackathon_Holberton/blob/master/screenshot-hackathon-012.jpg"><br>Popup Window of Lost</div>
 
 ## Design Progress
-I developed the maze, Simon developed the wheel clock and the maze level switch buttons.\
+I developed the maze, the page layout, and the game ending messages, Simon developed the wheel clock and the maze level switch buttons.\
 Our major difficulty was the alignment issue during our work combine. The clock would not stay in the expected positions when the page window size is changed. Since it was a 2-day project, it was not a big issue.\
 Minor typo exists in the page description.
