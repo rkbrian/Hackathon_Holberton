@@ -2,7 +2,12 @@
 This was assigned as a 2-day team project: design anything (software, web application, game, etc.) for the theme "Lost and Found".
 Our final product is a themed web game called "**The Lost Temple**", which is to solve a maze in limited time.
 
-Contributors: **[Brian Kong](https://github.com/rkbrian)** (me), **[Simon Sun](https://github.com/SSun97)**
+## Contributors:
+**[Brian Kong](https://github.com/rkbrian)** (me) - software engineer, learning to code at Holberton School since Jan, 2021, specialization and passion in Low Level & Algorithms.\
+LinkedIn: https://www.linkedin.com/in/ran-kong/ \
+Email: rkbriankong@gmail.com
+
+**[Simon Sun](https://github.com/SSun97)** - software engineer, learning to code at Holberton School since Jan, 2021, specialization in web development.
 
 ## Theme story
 According to Maya wheel calendar, today is the end of the world!\
